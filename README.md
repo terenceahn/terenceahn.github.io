@@ -1,4 +1,4 @@
-# terrifictery.github.io
+# terenceahn.github.io
 Terence Ahn Programming Portfolio
 
 # Project List
