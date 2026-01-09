@@ -12,12 +12,12 @@ This project is a Java program that uses Gaussian elimination to solve systems o
 - Some outputs use the `StdOut` library.
 
 ## Instructions
-If you have: 
+If you have:  
 x+2y+z=2  
 3x+8y+z=12  
 4y+z=2
 
-You can represent it as:
+You can represent it as:  
 1 2 1 2  
 3 8 1 12  
 0 4 1 2
